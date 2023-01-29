@@ -6,9 +6,13 @@ This repository presents a Line Follower robot made for the Introduction to Robo
 
 ### Image of the project: 
 
-![Image](https://github.com/Dani780-C/LineFolllower/blob/main/images/image_03.png)  
-
-**More images can be found [here]().**  
+<div align="center">
+<img src="https://github.com/Dani780-C/LineFolllower/blob/main/images/image_03.png" width="800" height="600"/>  
+</div>  
+<br>
+<div align="center">
+  <a href="https://github.com/Dani780-C/LineFolllower/blob/main/images">Click for more images.</a>
+</div>
 
 ### Video of its functionality: [Youtube](https://youtu.be/Yz-4I9gCifg)  
 
