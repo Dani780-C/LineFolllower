@@ -43,6 +43,6 @@ To solve the second issue, we tuned the constant K<sub>d</sub> which controls ho
 
 The constant K<sub>i</sub> controls how much the residual error being corrected over time affects the output. We chose K<sub>i</sub>=0.001, but we didn't notice any significant improvement from K<sub>i</sub>=0.
 
-The track in the video was completed in a little under 15 seconds.
+The track in the video was completed in a little under 15 seconds (14.793 s).
 
 
