@@ -6,7 +6,7 @@ This repository presents a Line Follower robot made for the Introduction to Robo
 
 ### Image of the project: 
 
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/79210109/213531648-eacd1987-6b45-40ac-9b4b-5d4bed98cac2.png)  
+![Image](https://github.com/Dani780-C/LineFolllower/blob/main/images/image_03.png)  
 
 **More images can be found [here]().**  
 
