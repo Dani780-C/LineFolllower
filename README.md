@@ -1,7 +1,7 @@
 
 # Line Follower
 
-### Team *Wings*: Cîrlan Daniel & [Ioniţă Angel](https://github.com/Angel1Ionita)  
+### Team *Wings*: Cîrlan Daniel & [Ioniţă Angel](https://github.com/Angel1Ionita/LineFollower)  
 This repository presents a Line Follower robot made for the Introduction to Robotics course, 2022-2023.
 
 ### Image of the project: 
