@@ -1,15 +1,18 @@
 
 # Line Follower
 
-### Team: Cirlan Daniel & Ionita Angel
-This repository presents a Line Follower robot made for the Introduction to Robotics course , 2022-2023.
+### Team *Wings*: Cîrlan Daniel & [Ioniţă Angel](https://github.com/Angel1Ionita)  
+This repository presents a Line Follower robot made for the Introduction to Robotics course, 2022-2023.
 
-Image: ![MicrosoftTeams-image](https://user-images.githubusercontent.com/79210109/213531648-eacd1987-6b45-40ac-9b4b-5d4bed98cac2.png)
-Video: 
-https://youtu.be/Yz-4I9gCifg
+### Image of the project: 
 
-## Components used: 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/79210109/213531648-eacd1987-6b45-40ac-9b4b-5d4bed98cac2.png)  
 
+**More images can be found [here]().**  
+
+### Video of its functionality: [Youtube](https://youtu.be/Yz-4I9gCifg)  
+
+### Components used:  
 
 1. Arduino Uno
 2. Zip-ties
@@ -24,7 +27,7 @@ https://youtu.be/Yz-4I9gCifg
 11. L293D motor driver
 12. DC motors (2)
 
-## Line Follower logic
+### Line Follower logic
 
 The sensor is used to read the position of the robot relative to the line. It will return a value between 0 and 5000, with 0 meaning that the line follower is at the left of the line and 5000 meaning it is at the right. We map these values to the interval [-2500,2500] by decreasing 2500 from the initial value.
 
